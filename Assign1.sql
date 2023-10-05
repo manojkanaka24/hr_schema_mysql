@@ -1,6 +1,6 @@
- #STUDENT NAME :ROHIT KUMAR
- #MOBILE NO:6204905216
- #E-MAIL:rohitkumar.dnr03@gmail.com
+ #STUDENT NAME :Manoj Kanaka DH
+ #MOBILE NO:9380312328
+ #E-MAIL:manojkanakadh24@gmail.com
  #BRANCH: DBMS and SQL
  USE hr;
 #1.Write a query to find the addresses (location_id, street_address, city, state_province, country_name) of all the departments
